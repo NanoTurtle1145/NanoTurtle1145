@@ -1,11 +1,13 @@
 # 啊啊西尼米打击
 - 👋 Hi, I’m @NanoTurtle1145
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in sleeping 
+- 🌱 I’m currently learning how to sleep comfortably 
+- 💞️ I’m looking to collaborate on sleepers
+- 📫 How to reach me: sleep
+- 😄 Pronouns: sleeper
+- ⚡ Fun fact: I love sleeping 
+好了废话不说不说废话，我的主页是www.ntblog.cn ，所属组织网站是www.hopestudio.top 。
+目前正在研究Minecraft Bukkit核心服务器插件开发，比如HopeCraft。
 
 <!---
 NanoTurtle1145/NanoTurtle1145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
