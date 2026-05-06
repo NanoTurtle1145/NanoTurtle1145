@@ -7,7 +7,7 @@
 - 😄 Pronouns: sleeper
 - ⚡ Fun fact: I love sleeping 
 
-好了废话不说不说废话，我的主页是www.ntblog.cn ，
+好了废话不说不说废话，我的主页是blog.nanoturtle.cn ，
 
 所属组织网站是www.hopestudio.top 。是目前希望工作室的一名领导人。
 
