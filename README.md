@@ -7,11 +7,15 @@
 - 😄 Pronouns: sleeper
 - ⚡ Fun fact: I love sleeping 
 
-好了废话不说不说废话，我的主页是blog.nanoturtle.cn ，
+## 0x01 自述
+
+我是NanoTurtle,一名10后初三学生，学业压力正在不断变大。
+
+我的主页是blog.nanoturtle.cn ，
 
 所属组织网站是www.hopestudio.top 。是目前希望工作室的一名领导人。
 
-目前正在研究Minecraft Bukkit核心服务器插件开发，比如HopeCraft。
+目前正在研究CVE-2026-43499安全漏洞，比如我的RootMyS24仓库。
 
 
 
