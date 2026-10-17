@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f51b5,100:00bfa5&height=220&section=header&text=NanoTurtle1145&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=A%20perfect%20sleeper.&descAlignY=62&fontAlignY=36" width="100%" alt="banner" />
 
-<img src="https://avatars.githubusercontent.com/u/198453844?v=4" width="120" style="border-radius: 50%; border: 4px solid #3f51b5;" alt="NanoTurtle" />
+<img src="./assets/avatar.png" width="120" alt="NanoTurtle" />
 
 ### 🐢 你好，我是 NanoTurtle
 
