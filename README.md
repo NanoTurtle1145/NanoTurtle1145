@@ -88,7 +88,8 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=NanoTurtle1145&style=flat-square&color=3f51b5)
+[![Followers](https://img.shields.io/github/followers/NanoTurtle1145?style=flat-square&color=3f51b5&label=Followers)](https://github.com/NanoTurtle1145?tab=followers)
+[![Stars](https://img.shields.io/github/stars/NanoTurtle1145?affiliations=OWNER&style=flat-square&color=3f51b5&label=Stars)](https://github.com/NanoTurtle1145)
 
 **“Sleep is the best meditation.”** —— 睡个好觉，明天继续折腾。
 
