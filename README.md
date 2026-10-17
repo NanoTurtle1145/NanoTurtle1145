@@ -68,6 +68,16 @@
   <img src="https://streak-stats.demolab.com?user=NanoTurtle1145&theme=material-palenight&hide_border=true" alt="GitHub streak" />
 </p>
 
+## 🐍 贡献蛇
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NanoTurtle1145/NanoTurtle1145/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NanoTurtle1145/NanoTurtle1145/output/github-snake.svg" />
+    <img alt="NanoTurtle1145 的贡献蛇" src="https://raw.githubusercontent.com/NanoTurtle1145/NanoTurtle1145/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
 ## 🛌 睡眠档案
 
 | 项目 | 内容 |
